@@ -11,7 +11,7 @@
 
     ```msiexec /a "extractedDirectory\AcroRead.msi" TARGETDIR="\\contoso.de\NETLOGON\acroread\new"```
 
-### NOW YOU HAVE AN VALID MSI INSTALL-FILE, BUT WITHOUT ANY UPDATES SINCE 2015! 
+### NOW YOU HAVE AN VALID MSI INSTALL-FILE, WITHOUT ANY UPDATES SINCE 2015! 
 
 4. Run an admin install with a patch option specifying the MSP on the Admin install you created in step 3.
    
