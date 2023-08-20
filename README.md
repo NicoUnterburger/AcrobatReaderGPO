@@ -1,5 +1,6 @@
-# AcrobatReaderGPO
-## Deployment of Adobe Acrobat Reader DC with Standard Active Directory Group Policy
+# AcrobatReaderGPOdeployment
+## Deployment of Adobe Acrobat Reader DC
+## with Standard Active Directory Group Policy
 
 1. Gathering Installation Files
    ```
