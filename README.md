@@ -1,7 +1,7 @@
 # AcrobatReaderGPOdeployment
 ## How-To deploy Adobe Acrobat Reader DC via Active Directory Group Policy
 
-1. Gathering Installation Files
+1. Collect Installation Files
    ```
     Latest EXE-Installer:   https://get.adobe.com/de/reader/enterprise/
     Latest MSP Updates:     https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html
