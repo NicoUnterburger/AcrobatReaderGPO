@@ -2,10 +2,12 @@
 ## Deployment of Adobe Acrobat Reader DC with Standard Active Directory Group Policy
 
 1. Gathering Installation Files
+   ```
     Latest EXE-Installer:   https://get.adobe.com/de/reader/enterprise/
     Latest MSP Updates:     https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html
-2. Extract EXE File with 7-Zip
-3. Run an admin install of the Enterprise installer extracted MSI.
+   ```
+3. Extract EXE File with 7-Zip
+4. Run an admin install of the Enterprise installer extracted MSI.
 
     ```msiexec /a "extractedDirectory\AcroRead.msi" TARGETDIR="\\contoso.de\NETLOGON\acroread\new"```
 
