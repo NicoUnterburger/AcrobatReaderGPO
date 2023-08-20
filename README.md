@@ -1,5 +1,5 @@
 # AcrobatReaderGPO
-## Deployment of Adobe Acrobat Reader DC 
+## Deployment of Adobe Acrobat Reader DC with Standard Active Directory Group Policy
 
 1. Gathering Installation Files
     Latest EXE-Installer:   https://get.adobe.com/de/reader/enterprise/
